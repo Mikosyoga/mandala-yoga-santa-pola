@@ -59,15 +59,10 @@
   "contactTitle": "Tedd meg az első lépést",
   "contactText": "Érdeklődj az aktuális órákról és időpontokról, vagy keresd fel a központot a feltüntetett címen.",
   "contactButton": "Hívás",
-  "demoNote": "Nyilvánosan megosztott anyagokból készült bemutató oldal.",
   "phoneLabel": "Telefon / WhatsApp",
   "emailLabel": "E-mail",
   "addressLabel": "Helyszín",
   "address": "Av. Dama de Elche, 9, 03130 Santa Pola, Alicante",
-  "mwEyebrow": "JÓGASTÚDIÓD VAN?",
-  "mwTitle": "Egy weboldal, amely átadja a helyed hangulatát",
-  "mwText": "Ez egy nem hivatalos bemutató oldal a Mandala Yoga Santa Pola részére. A Laszlo-MesterWeb helyi vállalkozásoknak készít személyre szabott weboldalakat.",
-  "mwButton": "Laszlo-MesterWeb megnyitása →",
   "footerText": "Jóga és mozgás a Földközi-tenger mellett.",
   "sources": "Képforrások",
   "day1": "Hétfő",
@@ -87,6 +82,5 @@
   "practiceHatha": "A hatha jóga testhelyzeteket, légzést és összpontosítást kapcsol össze. Nyugodtabb tempója segít megfigyelni a testtartást és az átmeneteket, akár most kezded, akár rendszeresen gyakorolsz. Van, aki a mozgékonyságát szeretné javítani, más a napi feszültséget engedné el, vagy egyszerűen nyugodt időt keres magának.",
   "practiceTaiChi": "A központban Tai-Chi gyakorlására is van lehetőség. Lassú, pontosan egymásba kapcsolódó mozdulatai a koordinációra, az egyensúlyra és a folyamatosságra épülnek. A hatha jóga a testhelyzetekben való elmélyülést, a Tai-Chi inkább a mozdulatok áramlását helyezi előtérbe.",
   "practiceVinyasa": "A Vinyasa dinamikusabb jóga, amelyben a légzés kíséri a testhelyzetek közötti átmenetet.",
-  "createdBy": "Készítette",
-  "footerDemo": "Bemutató"
+  "createdBy": "Készítette"
 }

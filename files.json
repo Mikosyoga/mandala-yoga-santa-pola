@@ -1,4 +1,5 @@
 [
+  "CNAME",
   "README.txt",
   "admin.css",
   "admin.html",
@@ -25,6 +26,8 @@
   "lang/en.json",
   "lang/es.json",
   "lang/hu.json",
+  "robots.txt",
   "script.js",
+  "sitemap.xml",
   "style.css"
 ]

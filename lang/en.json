@@ -59,15 +59,10 @@
   "contactTitle": "Take the first step",
   "contactText": "Ask about current classes and times, or visit the centre at the address shown.",
   "contactButton": "Call the centre",
-  "demoNote": "Demonstration page based on publicly shared material.",
   "phoneLabel": "Phone / WhatsApp",
   "emailLabel": "Email",
   "addressLabel": "Location",
   "address": "Av. Dama de Elche, 9, 03130 Santa Pola, Alicante",
-  "mwEyebrow": "DO YOU RUN A YOGA STUDIO?",
-  "mwTitle": "A website that shares the essence of your space",
-  "mwText": "This is an unofficial demonstration adapted for Mandala Yoga Santa Pola. Laszlo-MesterWeb builds personalised websites for local businesses.",
-  "mwButton": "Open Laszlo-MesterWeb →",
   "footerText": "Yoga and movement by the Mediterranean.",
   "sources": "Image sources",
   "day1": "Monday",
@@ -87,6 +82,5 @@
   "practiceHatha": "Hatha Yoga combines postures, breathing and concentration. Its slower pace helps you observe body alignment and transitions, whether you are just starting or already practise regularly. Some people want to improve mobility; others hope to release the day’s tension or simply find a quiet moment.",
   "practiceTaiChi": "Tai Chi is also available at the centre. Its slow, precise movements link together to develop coordination, balance and continuity. Hatha Yoga invites you to explore each posture in depth, while Tai Chi focuses more on the flow of movement.",
   "practiceVinyasa": "Vinyasa is a more dynamic form of yoga in which breathing accompanies the transitions between postures.",
-  "createdBy": "Created by",
-  "footerDemo": "Demo"
+  "createdBy": "Created by"
 }
